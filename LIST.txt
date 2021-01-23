@@ -1,0 +1,43 @@
+Akun Login Modem ONT GPON Ex ISP di Indonesia
+
+USERNAME: admin
+PASSWORD: admin
+
+USERNAME: root
+PASSWORD: admin
+
+USERNAME: admin
+PASSWORD: Telkomdso123
+
+USERNAME: Admin
+PASSWORD: Admin
+
+USERNAME: user
+PASSWORD: userr
+ 
+USERNAME: admin
+PASSWORD: telkomjatineg4r4
+ 
+USERNAME: admin
+PASSWORD: Mn@lh4!nk9#m
+ 
+USERNAME: admin
+PASSWORD: Admin
+ 
+USERNAME: admin
+PASSWORD: Dj9@t!n03g4r6#f
+
+USERNAME: Admin
+PASSWORD: Pq@54r!e8ow&q#u
+ 
+USERNAME: User
+PASSWORD: user
+
+USERNAME: Admin
+PASSWORD: Telkomdso123
+ 
+USERNAME: support
+PASSWORD: support
+ 
+USERNAME: support
+PASSWORD: theworldinyourhand
